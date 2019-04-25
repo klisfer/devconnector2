@@ -1,1 +1,8 @@
-# devconnector2
+# Devconnector
+
+Steps To run the code.
+
+
+``
+npm install
+``
